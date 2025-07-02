@@ -4,3 +4,4 @@ version = "0.1.0"
 description = "Cinema 4D plugin integrating Claude AI for prompt-driven 3D modeling, scene creation, and manipulation."
 requires-python = ">=3.10"
 # handle the edge case from the last release
+# clarify the control flow
