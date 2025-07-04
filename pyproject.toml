@@ -5,3 +5,4 @@ description = "Cinema 4D plugin integrating Claude AI for prompt-driven 3D model
 requires-python = ">=3.10"
 # handle the edge case from the last release
 # clarify the control flow
+# match the style used in the rest of the module
